@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:36:46.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="m9N1tJO51jpkw9kzxDKf" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:45:22.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="VnnzTpb8oiJXkn5MuKaw" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="sMpfv1vUQwmXqTF9oKSZ">
     <mxGraphModel dx="788" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w3AdDSWSRcpGqZ1iqoAT-1" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="731" y="294" width="30" height="60" as="geometry" />
+          <mxGeometry x="764" y="878" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-1" value="Интерфейс&lt;div&gt;сайта&lt;/div&gt;&lt;div&gt;агенства&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="154" width="100" height="80" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-4" value="Провести осмотр&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="547" width="140" height="70" as="geometry" />
+          <mxGeometry x="731" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-5" target="YY63stGorWPtqNPKm8e1-12">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-5" value="Записаться на осмотр&lt;div&gt;объекта&lt;/div&gt;&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="532" width="140" height="85" as="geometry" />
+          <mxGeometry x="262" y="261" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-6" target="YY63stGorWPtqNPKm8e1-18">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-6" value="Заключить&lt;div&gt;сделку&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="52" width="140" height="70" as="geometry" />
+          <mxGeometry x="682" y="43" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-7" target="YY63stGorWPtqNPKm8e1-1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,34 +68,34 @@
           <mxGeometry x="262" y="52" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-12" value="Интерфейс&lt;div&gt;сайта&lt;/div&gt;&lt;div&gt;агенства&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="656" width="100" height="80" as="geometry" />
+          <mxGeometry x="139" y="385" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-13" value="Личный кабинет" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432" y="656" width="80" height="80" as="geometry" />
+          <mxGeometry x="432" y="385" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-14" value="Запись на&lt;div&gt;осмотр&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="649" width="84" height="86" as="geometry" />
+          <mxGeometry x="338" y="378" width="84" height="86" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-18" value="Интерфейс&lt;div&gt;сайта&lt;/div&gt;&lt;div&gt;агенства&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="157.5" width="100" height="80" as="geometry" />
+          <mxGeometry x="561" y="148.5" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-19" value="Объект недвижимости" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="157.5" width="89" height="85.5" as="geometry" />
+          <mxGeometry x="803" y="148.5" width="89" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-20" value="Заключение&lt;div&gt;сделки&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="150.5" width="84" height="86" as="geometry" />
+          <mxGeometry x="694" y="141.5" width="84" height="86" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-21" value="Место встречи с агентом" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="652" width="100" height="80" as="geometry" />
+          <mxGeometry x="610" y="385" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-22" value="Объект&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1186" y="648" width="92" height="86" as="geometry" />
+          <mxGeometry x="903" y="381" width="92" height="86" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-23" value="Осмотр" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="645" width="84" height="86" as="geometry" />
+          <mxGeometry x="759" y="378" width="84" height="86" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-32" value="Документы&lt;div&gt;для&lt;/div&gt;&lt;div&gt;сделки&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1246" y="157.5" width="89" height="85.5" as="geometry" />
+          <mxGeometry x="914" y="148.5" width="89" height="85.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
