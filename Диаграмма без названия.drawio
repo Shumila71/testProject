@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T08:27:04.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="-0Acw93qv74ZUnZLEHnB" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T08:31:35.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="sasKl1aqCxPeUPHGmhNQ" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="sMpfv1vUQwmXqTF9oKSZ">
-    <mxGraphModel dx="842" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,6 +240,12 @@
             <mxPoint x="1552" y="178" as="sourcePoint" />
             <mxPoint x="1481" y="241" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YY63stGorWPtqNPKm8e1-92" value="Осмотр объекта&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1547" y="358" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YY63stGorWPtqNPKm8e1-93" value="Заключение сделки" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1959" y="358" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
