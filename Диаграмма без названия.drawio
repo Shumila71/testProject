@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T06:56:18.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="RbOMn0uiMtNo8vRIPqtn" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T06:56:51.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="N27K9uf6cscJ_LCxevfk" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="sMpfv1vUQwmXqTF9oKSZ">
     <mxGraphModel dx="788" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="YY63stGorWPtqNPKm8e1-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-4" target="YY63stGorWPtqNPKm8e1-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YY63stGorWPtqNPKm8e1-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YY63stGorWPtqNPKm8e1-4" value="Провести осмотр&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1014" y="547" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-5" target="YY63stGorWPtqNPKm8e1-12">
@@ -40,7 +40,7 @@
         <mxCell id="YY63stGorWPtqNPKm8e1-5" value="Записаться на осмотр&lt;div&gt;объекта&lt;/div&gt;&lt;div&gt;недвижимости&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="532" width="140" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="YY63stGorWPtqNPKm8e1-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YY63stGorWPtqNPKm8e1-6" value="Заключить&lt;div&gt;сделку&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1014" y="52" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YY63stGorWPtqNPKm8e1-7" target="YY63stGorWPtqNPKm8e1-1">
