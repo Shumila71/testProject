@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:34:41.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="sNYj23QqAgDyJnlK80gD" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:36:29.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="-sGLBxkBgMSXBbQlCgye" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="sMpfv1vUQwmXqTF9oKSZ">
     <mxGraphModel dx="788" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="YY63stGorWPtqNPKm8e1-14" value="Запись на&lt;div&gt;осмотр&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="649" width="84" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="YY63stGorWPtqNPKm8e1-18" value="Интерфейс" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YY63stGorWPtqNPKm8e1-18" value="Интерфейс&lt;div&gt;сайта&lt;/div&gt;&lt;div&gt;агенства&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="157.5" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YY63stGorWPtqNPKm8e1-19" value="Объект недвижимости" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
